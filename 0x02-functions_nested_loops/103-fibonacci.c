@@ -1,11 +1,13 @@
 #include <stdio.h>
 
-
-	/**
-	 * main - finds and prints the sum of the even-valued terms
-	 * followed by a new line
-	 * Return: Always 0 (Success)
-	 */
+/**
+ * This is the main function of the program.
+ * It initializes variables, calculates the sum of even-valued Fibonacci terms up to 4 million,
+ * and prints the result to the console.
+ *
+ * @return 0 on successful program execution.
+ */
+ 
 	int main(void)
 	{
 		int i;
